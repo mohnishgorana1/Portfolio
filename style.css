@@ -172,7 +172,9 @@ hr{
     margin:1rem;
     
 }
-
+.container-center a{
+    display: inline;
+}
 
 .container-center .link-secondary {
     color:rgb(32, 133, 133);
