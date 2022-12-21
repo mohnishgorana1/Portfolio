@@ -60,7 +60,7 @@ hr{
     max-width: 150px;
     color:beige;
     border-radius: 2rem;
-    display: block;
+    display: block; 
     margin:1rem auto;
     display: inline;
 }
@@ -173,9 +173,11 @@ hr{
     
 }
 .container-center a{
-    display: inline;
+    display:inline;
+    max-width: 120px;
+    text-align: center;
 }
-
+s
 .container-center .link-secondary {
     color:rgb(32, 133, 133);
     padding-left: 10px;
